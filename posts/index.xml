@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Umang Tiwary</title>
+    <link>http://wwhite13.com/posts/</link>
+    <description>Recent content in Posts on Umang Tiwary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Aug 2022 13:51:51 +0530</lastBuildDate><atom:link href="http://wwhite13.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://wwhite13.com/posts/hello-world/</link>
+      <pubDate>Fri, 26 Aug 2022 13:51:51 +0530</pubDate>
+      
+      <guid>http://wwhite13.com/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
